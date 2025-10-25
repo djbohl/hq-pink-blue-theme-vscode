@@ -3,6 +3,10 @@
   "displayName": "HQ_Pink_Blue",
   "description": "",
   "version": "0.0.1",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/djbohl/hq-pink-blu-theme-vscode.git"
+},
   "engines": {
     "vscode": "^1.105.0"
   },
