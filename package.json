@@ -2,7 +2,7 @@
   "name": "hq-pink-blue",
   "displayName": "HQ_Pink_Blue",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "djbohl",
   "license": "MIT",
   "repository": {
@@ -10,7 +10,7 @@
   "url": "https://github.com/djbohl/hq-pink-blu-theme-vscode.git"
 },
   "engines": {
-    "vscode": "^1.105.0"
+    "vscode": ">=1.90.0"
   },
   "categories": [
     "Themes"
