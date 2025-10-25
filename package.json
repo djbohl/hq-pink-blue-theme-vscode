@@ -3,6 +3,8 @@
   "displayName": "HQ_Pink_Blue",
   "description": "",
   "version": "0.0.1",
+  "publisher": "dj",
+  "license": "MIT",
   "repository": {
   "type": "git",
   "url": "https://github.com/djbohl/hq-pink-blu-theme-vscode.git"
