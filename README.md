@@ -7,10 +7,6 @@
   <sub>Built for developers who want their editor to look as good as their code.</sub>
 </p>
 
-### Link to Github Repo
-
-[![hq-pink-blue-theme-vscode](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=hq-pink-blue-theme-vscode&theme=algolia)](https://github.com/djbohl/hq-pink-blue-theme-vscode)
----
 <!-- 
 ## ✨ Preview
 
