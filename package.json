@@ -1,0 +1,21 @@
+{
+  "name": "hq-pink-blue",
+  "displayName": "HQ_Pink_Blue",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "hq-pink-blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hq-pink-blue-color-theme.json"
+      }
+    ]
+  }
+}
