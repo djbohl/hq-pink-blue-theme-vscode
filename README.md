@@ -1,16 +1,46 @@
 # hq-pink-blue README
 
-## Working with Markdown
+<h1 align="left">🎨 HQ Pink + Blue</h1>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<p align="left">
+  <b>A vibrant, modern theme for VS Code with sharp contrast, deep blues, and glowing pink accents.</b><br/>
+  <sub>Built for developers who want their editor to look as good as their code.</sub>
+</p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### Link to Github Repo
 
-## For more information
+[![hq-pink-blue-theme-vscode](https://github-readme-stats.vercel.app/api/pin/?username=djbohl&repo=hq-pink-blue-theme-vscode&theme=algolia)](https://github.com/djbohl/hq-pink-blue-theme-vscode)
+---
+<!-- 
+## ✨ Preview
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/djbohl/hq-pink-blue/main/assets/preview-dark.png" alt="HQ Pink + Blue Theme Preview" width="90%" />
+</p>
 
-**Enjoy!**
+-->
+
+---
+
+## 🌈 Variants
+
+| Theme Name | Type | Description |
+|-------------|------|-------------|
+| **HQ Pink + Blue** | 🩵 Dark | The original — neon blue meets sunset pink. |
+| **HQ Light Edition** *(coming soon)* | ☀️ Light | A softer variant for bright setups. |
+
+---
+
+## ⚙️ Installation
+
+1. Open **Extensions** sidebar panel in VS Code (`Cmd+Shift+X` / `Ctrl+Shift+X`).
+2. Search for **`HQ Pink + Blue`**.
+3. Click **Install**.
+4. Press `Cmd+K Cmd+T` / `Ctrl+K Ctrl+T` and choose **HQ Pink + Blue**.
+
+
+Or install directly via command line:
+```bash
+code --install-extension djbohl.hq-pink-blue
+```
+
